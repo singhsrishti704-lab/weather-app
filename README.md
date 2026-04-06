@@ -26,7 +26,7 @@ Enter a city name and the app fetches live weather data using an API and display
 - Add error handling for invalid city names
 
 ## 🔗 Project Link
-(You can add your live link here later)
+ https://singhsrishti704-lab.github.io/weather-app/
 
 ---
 
